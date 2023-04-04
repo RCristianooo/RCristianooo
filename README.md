@@ -1,3 +1,4 @@
+<div align="center"><img src="https://media.tenor.com/kHKbW8qgQFsAAAAM/pedri-sonrisa.gif" alt="Welcome to my Github!" align="center"></div>
 <h1 align="center">👋 Hey! I'm Cristian and this is my GitHub. 🤖</h1>
 <h3 align="center">A Tampa based software engineer coding full-stack Web applications.</h3>
 
