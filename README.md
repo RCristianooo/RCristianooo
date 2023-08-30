@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hey! I'm Cristian and this is my GitHub. 🤖</h1>
 <h3 align="center">A Tampa based software engineer coding full-stack Web applications.</h3>
 
-- 🚧 I’m currently working on **a website for a Cafe**
+- 🚧 I’m currently working on **a website for a local electrical company**
 
-- 🔭 I’m currently learning **more with JavaScript**
+- 🔭 I’m currently learning **more with React**
 
 - 💼 I’m looking to collaborate with **more clients**
 
